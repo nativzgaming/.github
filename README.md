@@ -1,1 +1,3 @@
-# .github
+# Nativz Gaming
+
+Building esport solutions.
